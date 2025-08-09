@@ -1,2 +1,2 @@
-# TP-Inteligencia-Artificial---2025
+# TP-Inteligencia-Artificial-2025
 Clasificador de imágenes  
